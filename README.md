@@ -1,2 +1,2 @@
 # Big-Data
-Kiernan Roles, Joanna Rodriguez, Evan Lang
+Kiernan Roles, Joana Rodriguez, Evan Lang
