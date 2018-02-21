@@ -12,7 +12,7 @@ The purpose of this project is to create a website using big data and other code
 List the set of three to five questions you sought to answer. 
 - Why do viewers prefer generally Marvel Universe over DC Universe?
 - What makes Marvel Universe have higher profit than DC?
-- What arethe fundamental differences between the DC and Marvel comics characters anduniverses?
+- What are the fundamental differences between the DC and Marvel comics characters and universes?
 
 https://www.marketstrategies.com/blog/2015/03/dc-vs-marvel-it-all-comes-down-to-batman/
 The data set shows how many saw Batman v. Superman comapred to Avengers Age of Ultron. The data shows that The Avengers was accepted by a greater audience. To know why click the link below. accesed 2/2018
