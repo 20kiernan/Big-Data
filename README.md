@@ -7,6 +7,7 @@ The purpose of this project is to create a website using big data and other code
 - Why do viewers prefer generally Marvel Universe over DC Universe?
 
 https://trends.google.com/trends/explore?q=%2Fm%2F01q_ks,%2Fm%2F058nt Accessed 15. Feb. 2018.
+
 Studies shows that DC trailers received a positive response from their special effects and explosive action, rather than from their characters. However, fans show a strong affinity toward Marvel’s superheroes and react positively toward its trailers’ humor, driving the higher levels of emotional engagement with its trailers.
 
 - What makes Marvel Universe have higher profit than DC?
