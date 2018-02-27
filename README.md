@@ -18,7 +18,8 @@ The reason why Marvel Universe have higher profit is because the actors / charac
 
 - What are the fundamental differences between the DC and Marvel comics characters and universes?
 
-Diedrick, Alex. “What Comic Book Rookies Should Know About The Differences Between Marvel And DC.” UPROXX, UPROXX, 21 Mar. 2016, uproxx.com/movies/differences-between-marvel-and-dc/. Accessed 15 Feb. 2018.
+Diedrick, Alex. “What Comic Book Rookies Should Know About The Differences Between Marvel And DC.” UPROXX, UPROXX, 21 Mar. 2016, uproxx.com/movies/differences-between-marvel-and-dc/
+. Accessed 15 Feb. 2018.
 
 There are distinct differences between the worlds of DC and Marvel, though, specifically in whether or not they take place in fictional locations.In Marvel, the good guys are usually fighting for cities that we know. They’re more grounded to reality in that aspect, Asgard aside. We see New York City and Washington, D.C. threatened and destroyed, not some fantasy cities. On the other hand, DC generally sticks to fictional worlds for its heroes to protect. Other differences are how superheroes get Gift/Curses of Powers, how They Got Their Powers, and finally The Tone Of Their Film. 
  
