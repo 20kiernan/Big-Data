@@ -6,6 +6,8 @@ The purpose of this project is to create a website using big data and other code
 
 - Why do viewers prefer generally Marvel Universe over DC Universe?
 
+> ![enter image description here](https://lh3.googleusercontent.com/bR6XiFpp2dVcsDhXxiV1Wq73751PxFowoVgJq4LzOCx-iZ5UpHK3zsvw-OIKr9luzUTFteUrxxU "Graph")
+
 https://trends.google.com/trends/explore?q=%2Fm%2F01q_ks,%2Fm%2F058nt Accessed 15. Feb. 2018.
 
 Studies shows that DC trailers received a positive response from their special effects and explosive action, rather than from their characters. However, fans show a strong affinity toward Marvel’s superheroes and react positively toward its trailers’ humor, driving the higher levels of emotional engagement with its trailers.
@@ -24,8 +26,10 @@ There are distinct differences between the worlds of DC and Marvel, though, spec
  
 - What are upcoming comic book movies for DC and Marvel ?
 
+> ![enter image description here](https://lh3.googleusercontent.com/M3fIQQtyWMCtn0n1fO9QmbCZbi_7uH1sg0CopJjU1WmsdstjvgxvTNLuxt2ySP5NZzyRRazogBg "Timeline")
+
 https://www.cnet.com/special-reports/marvel-cinematic-universe-dc-extended-universe-showdown/  Acessed 15, Feb. 2018.
 
 This timeline illustrates the movies the two industry have made or are going to be creating in the future years till 2020. 
 
-Once answering the valuable questions we’ve had gain a better understanding why Marvel Universe had a greater advantage than DC mostly because a view of whta fans want.
+Once answering the valuable questions we’ve had gain a better understanding why Marvel Universe had a greater advantage than DC mostly because a view of what fans want.
