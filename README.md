@@ -1,6 +1,6 @@
 # Big-Data
 
-Marvel Vs DC
+# Marvel vs DC
 
 Kiernan Roles, Joana Rodriguez, Evan Lang
 
