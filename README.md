@@ -1,5 +1,7 @@
 # Big-Data
 
+Marvel Vs DC
+
 Kiernan Roles, Joana Rodriguez, Evan Lang
 
 The purpose of this project is to create a website using big data and other codes. Staring off we’ve accominated on movies at first it was depending on the genres, but as we accumulated there wasn't much information so we decided to do the most popular superhero movies which lead to choosing Marvel and DC. The main area we focus when it came to collect and analyzing data for Marvel Universe vs. Dc Universe was to know which industry had a higher rating and the what the main differences were. We were then able to collect data although we did have some questions which we will answer below. 
