@@ -1,9 +1,3 @@
-Explanation of Peer Review
-Reflect on the collaborative process your group used to do the research.
-Answer the following questions, keeping your answers at a strategic level rather than an operational level. For example, talk about how and why you divided the tasks, but not what time and for how long you met with your group. Your answer should be no more than 300 words. Include answers to the following questions: (10 points)
+Peer Review
 
-How did you share or divide the work?
-Why did you choose to divide the work in this way?
-How did you coordinate your efforts?
-What worked well, and what did not work well, in your collaboration?
-How did you benefit from working with a partner (or partners)?
+In order for each group member to have an evenly distributed work, we would discuss the work which lead towards dividing the work. Later on collaborating to each other information that one has been informed or done within their individual work time. In other words, we would catch up gaining more knowledge over the content we chose not having to be further behind. We choose this method because it was an easier way to finish any assignment assigned according to the requirements. Unfortunately, the methods we accominated didn’t quite successfully worked out as planned it turned out that one group member ended up doing all the work in. How I coordinate my effort was accurate was an task and dedicated to the work. A collaboration that went well was our final product in our project which was the website. The partners / group members that I had been assigned to tried there very best to understand the concept which I honestly appreciate for their hard dedication and commitment throughout the whole project. 
